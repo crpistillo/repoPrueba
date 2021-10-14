@@ -1,4 +1,4 @@
 int main() {
 	int n = 5;
-	int m = 8;
+	int m = 7;
 }
